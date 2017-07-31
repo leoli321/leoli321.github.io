@@ -11,7 +11,7 @@ config = {
     // When running Ghost in the wild, use the production environment.
     // Configure your URL and mail settings here
     production: {
-        url: 'https://leoli321.github.io',
+        url: 'http://leoli321.github.io',
         mail: {},
         database: {
             client: 'sqlite3',
