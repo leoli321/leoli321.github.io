@@ -1,4 +1,26 @@
-<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" version="2.0"><channel><title>leos</title><description>Thoughts, stories and ideas.</description><link>http:///</link><generator>Ghost 0.7</generator><lastBuildDate>Mon, 31 Jul 2017 05:19:57 GMT</lastBuildDate><atom:link href="http:///rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title>Test</title><link>http:///test/</link><guid isPermaLink="false">892827aa-2c33-43e5-aad3-5908d7a77d2b</guid><dc:creator>wenchao li</dc:creator><pubDate>Mon, 31 Jul 2017 02:33:26 GMT</pubDate><content:encoded/></item><item><title>Welcome to Ghost</title><description>&lt;p&gt;You're live! Nice. We've put together a little post to introduce you to the Ghost editor and get you started. You can manage your content by signing in to the admin area at &lt;code&gt;&amp;lt;your blog URL&amp;gt;/ghost/&lt;/code&gt;. When you arrive, you can select this post from a list&lt;/p&gt;</description><link>http:///welcome-to-ghost/</link><guid isPermaLink="false">604f9f0d-51a3-4d59-bfb8-9575b7acc35c</guid><category>Getting Started</category><dc:creator>wenchao li</dc:creator><pubDate>Thu, 27 Jul 2017 15:22:55 GMT</pubDate><content:encoded>&lt;p&gt;You're live! Nice. We've put together a little post to introduce you to the Ghost editor and get you started. You can manage your content by signing in to the admin area at &lt;code&gt;&amp;lt;your blog URL&amp;gt;/ghost/&lt;/code&gt;. When you arrive, you can select this post from a list on the left and see a preview of it on the right. Click the little pencil icon at the top of the preview to edit this post and read the next section!&lt;/p&gt;
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" version="2.0"><channel><title>leos</title><description>Thoughts, stories and ideas.</description><link>http:///</link><generator>Ghost 0.7</generator><lastBuildDate>Mon, 31 Jul 2017 06:04:15 GMT</lastBuildDate><atom:link href="http:///rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title>note new</title><description>&lt;!-- Begin BidVertiser code --&gt;
+
+&lt;script data-cfasync="false" src="//bdv.bidvertiser.com/BidVertiser.dbm?pid=778128&amp;bid=1896912" type="text/javascript"&gt;&lt;/script&gt;  
+&lt;!-- End BidVertiser code --&gt; 
+
+&lt;p&gt;&lt;a href="http://127.0.0.1:2368"&gt;http://127.0.0.1:2368&lt;/a&gt;&lt;/p&gt;
+
+&lt;!-- AdClickMedia Banner Panels Code START --&gt;  
+
+&lt;script language="javascript" type="text/javascript" src="http://banneradvertising.adclickmedia.com/cgi-bin/bannerrotate.cgi?Leo::65352"&gt;&lt;/script&gt;  
+
+&lt;!-- AdClickMedia Banner Panels Code END --&gt;</description><link>http:///note-new/</link><guid isPermaLink="false">34d0f8a1-322b-4376-b54c-d9b3db78b5bd</guid><dc:creator>wenchao li</dc:creator><pubDate>Mon, 31 Jul 2017 05:59:06 GMT</pubDate><content:encoded> &lt;!-- Begin BidVertiser code --&gt;
+
+&lt;script data-cfasync="false" src="//bdv.bidvertiser.com/BidVertiser.dbm?pid=778128&amp;bid=1896912" type="text/javascript"&gt;&lt;/script&gt;  
+&lt;!-- End BidVertiser code --&gt; 
+
+&lt;p&gt;&lt;a href="http://127.0.0.1:2368"&gt;http://127.0.0.1:2368&lt;/a&gt;&lt;/p&gt;
+
+&lt;!-- AdClickMedia Banner Panels Code START --&gt;  
+
+&lt;script language="javascript" type="text/javascript" src="http://banneradvertising.adclickmedia.com/cgi-bin/bannerrotate.cgi?Leo::65352"&gt;&lt;/script&gt;  
+
+&lt;!-- AdClickMedia Banner Panels Code END --&gt;</content:encoded></item><item><title>Test</title><link>http:///test/</link><guid isPermaLink="false">892827aa-2c33-43e5-aad3-5908d7a77d2b</guid><dc:creator>wenchao li</dc:creator><pubDate>Mon, 31 Jul 2017 02:33:26 GMT</pubDate><content:encoded/></item><item><title>Welcome to Ghost</title><description>&lt;p&gt;You're live! Nice. We've put together a little post to introduce you to the Ghost editor and get you started. You can manage your content by signing in to the admin area at &lt;code&gt;&amp;lt;your blog URL&amp;gt;/ghost/&lt;/code&gt;. When you arrive, you can select this post from a list&lt;/p&gt;</description><link>http:///welcome-to-ghost/</link><guid isPermaLink="false">604f9f0d-51a3-4d59-bfb8-9575b7acc35c</guid><category>Getting Started</category><dc:creator>wenchao li</dc:creator><pubDate>Thu, 27 Jul 2017 15:22:55 GMT</pubDate><content:encoded>&lt;p&gt;You're live! Nice. We've put together a little post to introduce you to the Ghost editor and get you started. You can manage your content by signing in to the admin area at &lt;code&gt;&amp;lt;your blog URL&amp;gt;/ghost/&lt;/code&gt;. When you arrive, you can select this post from a list on the left and see a preview of it on the right. Click the little pencil icon at the top of the preview to edit this post and read the next section!&lt;/p&gt;
 
 &lt;h2 id="gettingstarted"&gt;Getting Started&lt;/h2&gt;
 
